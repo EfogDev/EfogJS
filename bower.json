@@ -1,0 +1,24 @@
+{
+  "name": "efogjs",
+  "description": "Component-based framework with two-way data-binding",
+  "main": "index.js",
+  "authors": [
+    "Efog <efog@yandex.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "framework",
+    "two-way",
+    "component",
+    "data-binding"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

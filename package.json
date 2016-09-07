@@ -1,0 +1,25 @@
+{
+  "name": "efogjs",
+  "version": "0.0.1",
+  "description": "Component-based framework with two-way data-binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EfogDev/EfogJS.git"
+  },
+  "keywords": [
+    "framework",
+    "two-way",
+    "component",
+    "data-binding"
+  ],
+  "author": "Efog <efog@yandex.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EfogDev/EfogJS/issues"
+  },
+  "homepage": "https://github.com/EfogDev/EfogJS#readme"
+}
