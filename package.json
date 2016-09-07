@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/EfogDev/EfogJS/issues"
   },
-  "homepage": "https://github.com/EfogDev/EfogJS#readme"
+  "homepage": "https://github.com/EfogDev/EfogJS#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
 }
